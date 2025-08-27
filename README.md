@@ -1,3 +1,6 @@
+Nils Jacobsen
+https://github.com/nilsjacobsengit/nilsjacobsengit./blob/main/README.md
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
